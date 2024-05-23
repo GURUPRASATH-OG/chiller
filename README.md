@@ -1,1 +1,1 @@
-# chiller(https://github.io/guruprasath-og/chiller/)
+# chiller(https://guruprasath-og.github.io/chiller/)
